@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "3ebe6690f7d9bbb951a42ca2f620c7459bd4f4d3"
+    "signature": "e45868418e3c12ed2b73831d3686858657651014"
   },
   "compilationOptions": {
     "defines": [
@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v2.2": {
       "S3.NetCore/1.0.0": {
         "dependencies": {
+          "AWSSDK.Extensions.NETCore.Setup": "3.3.100.1",
           "AWSSDK.S3": "3.3.102.9",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
@@ -45,6 +46,23 @@
         },
         "compile": {
           "lib/netstandard2.0/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.Extensions.NETCore.Setup/3.3.100.1": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.102",
+          "Microsoft.Extensions.Configuration.Abstractions": "2.2.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Logging.Abstractions": "2.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Extensions.NETCore.Setup.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.100.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/AWSSDK.Extensions.NETCore.Setup.dll": {}
         }
       },
       "AWSSDK.S3/3.3.102.9": {
@@ -3269,6 +3287,13 @@
       "sha512": "sha512-5NRjkm43vy9PruvYvAzwG6BEJArJssdxkVhNivWJqHxBdOjoz5rapOO4++/E9IYie6l2lq72n3g/EWTH/0nTyA==",
       "path": "awssdk.core/3.3.102",
       "hashPath": "awssdk.core.3.3.102.nupkg.sha512"
+    },
+    "AWSSDK.Extensions.NETCore.Setup/3.3.100.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KrMhRur0x5X8sSkRSVKt7iEwdsMqu8sa5zqTOhaxEw52r/YaqiiRgw0hNcNCObpm2gQAASewlIVfaBitGjHlUw==",
+      "path": "awssdk.extensions.netcore.setup/3.3.100.1",
+      "hashPath": "awssdk.extensions.netcore.setup.3.3.100.1.nupkg.sha512"
     },
     "AWSSDK.S3/3.3.102.9": {
       "type": "package",

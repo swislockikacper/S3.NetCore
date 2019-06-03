@@ -1,5 +1,4 @@
-﻿using Amazon.S3;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -19,7 +18,6 @@ namespace S3.NetCore
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddScoped<IS3Service, S3Service>();
-            services.AddAWSService<IAmazonS3>();
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
