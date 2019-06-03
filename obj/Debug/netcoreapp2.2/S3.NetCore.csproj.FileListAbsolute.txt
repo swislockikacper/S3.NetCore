@@ -1,0 +1,14 @@
+C:\Users\kswislocki\Desktop\Projekty\S3.NetCore\bin\Debug\netcoreapp2.2\S3.NetCore.deps.json
+C:\Users\kswislocki\Desktop\Projekty\S3.NetCore\bin\Debug\netcoreapp2.2\S3.NetCore.runtimeconfig.json
+C:\Users\kswislocki\Desktop\Projekty\S3.NetCore\bin\Debug\netcoreapp2.2\S3.NetCore.runtimeconfig.dev.json
+c:\Users\kswislocki\Desktop\Projekty\S3.NetCore\bin\Debug\netcoreapp2.2\S3.NetCore.dll
+c:\Users\kswislocki\Desktop\Projekty\S3.NetCore\bin\Debug\netcoreapp2.2\S3.NetCore.pdb
+c:\Users\kswislocki\Desktop\Projekty\S3.NetCore\obj\Debug\netcoreapp2.2\S3.NetCore.csprojAssemblyReference.cache
+c:\Users\kswislocki\Desktop\Projekty\S3.NetCore\obj\Debug\netcoreapp2.2\S3.NetCore.csproj.CoreCompileInputs.cache
+c:\Users\kswislocki\Desktop\Projekty\S3.NetCore\obj\Debug\netcoreapp2.2\S3.NetCore.RazorAssemblyInfo.cache
+c:\Users\kswislocki\Desktop\Projekty\S3.NetCore\obj\Debug\netcoreapp2.2\S3.NetCore.RazorAssemblyInfo.cs
+c:\Users\kswislocki\Desktop\Projekty\S3.NetCore\obj\Debug\netcoreapp2.2\S3.NetCore.AssemblyInfoInputs.cache
+c:\Users\kswislocki\Desktop\Projekty\S3.NetCore\obj\Debug\netcoreapp2.2\S3.NetCore.AssemblyInfo.cs
+c:\Users\kswislocki\Desktop\Projekty\S3.NetCore\obj\Debug\netcoreapp2.2\S3.NetCore.RazorTargetAssemblyInfo.cache
+c:\Users\kswislocki\Desktop\Projekty\S3.NetCore\obj\Debug\netcoreapp2.2\S3.NetCore.dll
+c:\Users\kswislocki\Desktop\Projekty\S3.NetCore\obj\Debug\netcoreapp2.2\S3.NetCore.pdb
